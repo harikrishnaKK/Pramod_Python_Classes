@@ -4,11 +4,13 @@ Explain the difference between the = operator and the == operator in Python.
 What does the ** operator do in Python, and how is it used?
 What does the ^ operator do in Python, and in what context is it commonly used?
 ------------------------------------------------------------------------------------------------------------------
-1. Single Operator will use for assign any value to the variable, and the "==" is used compare the two values.
-2. "**" operator is used for "a raised to the power of b"
+1. A Single Operator will be used to assign any value to the variable, and the "==" is used to compare the two values.
+2. The "**" operator is used for "a raised to the power of b"
 3. In Python, XOR is a bitwise operator that is also known as Exclusive OR.
-It is a logical operator which outputs 1
-Truth table for XOR (binary)
+It is a logical operator that outputs 1
+
+
+The truth table for XOR (binary)
 
 A	B	A⊕B
 1	1	0
